@@ -25,3 +25,6 @@ team members. The program tries to generate teams with total
 qualifiers as close together as possible. This should lead to roughly
 equally matched teams. The spread of the total qualifiers in the
 output give a sense of how well the program did.
+
+The samples/ directory contains some sample files. (These are scores
+from the Redwood Bowmen 2018 WA Field Day on the Hill.)
