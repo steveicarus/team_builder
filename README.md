@@ -8,8 +8,10 @@ mixed teams.
 The input files have the simple format of one archer and score per
 line. For example:
 
+```
    Joe Smith, 290
    Sarah Jones, 291
+```
 
 There are three input text files: compound_archers.txt,
 recurve_archer.txt, and barebow_archer.txt, that are formatted as
