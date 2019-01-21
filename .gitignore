@@ -1,0 +1,6 @@
+
+*.o
+*.obj
+*~
+team_builder
+team_builder.exe
